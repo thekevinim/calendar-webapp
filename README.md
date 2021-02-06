@@ -1,4 +1,6 @@
-# final-project
+# Calendar Web App
+eecs 493 final project <br />
+by sl-kr, tandunn, thekevinim, minorih
 
 ## Project setup
 ```
