@@ -1,4 +1,6 @@
 # Calendar Web App
+calendar, daily tasks, statistics, pages <br /> <br />
+
 eecs493 final project, made with Vue.js <br />
 by sl-kr, tandunn, thekevinim, minorih
 
