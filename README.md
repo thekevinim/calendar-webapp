@@ -1,5 +1,5 @@
 # Calendar Web App
-eecs 493 final project, made with Vue.js <br />
+eecs493 final project, made with Vue.js <br />
 by sl-kr, tandunn, thekevinim, minorih
 
 ## Project setup
